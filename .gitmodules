@@ -1,0 +1,9 @@
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/timetravel-1010/saludlegal-frontend
+[submodule "api"]
+	path = api
+	url = https://github.com/timetravel-1010/saludlegal-api
+[submodule "database"]
+	path = database
+	url = https://github.com/timetravel-1010/saludlegal-db
